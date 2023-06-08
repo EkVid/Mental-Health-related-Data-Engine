@@ -1,3 +1,2 @@
 # Mental-Health-related-Data-Engine
-A Data engine used to generate graphs to either compare with different countries' bipolar disorder / anxiety rate or check one country each time
-Coded in Python & SQL
+Implemented a Data engine by Python and SQL to generate graphs to either compare with different countries' bipolar disorder / anxiety rate or check one country each time.
