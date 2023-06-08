@@ -1,9 +1,6 @@
 import sqlite3 as sql
 import csv
 
-######SOME HELPFUL FILES FOR USING SQL in CSCA20
-######Copyright Brian Harrington, 2022
-######
 ######csv_to_table - read a csv file into an sql table
 ######table_to_csv - output a sql table to a csv file
 ######select_to_csv - output results of a select statement to a csv file
