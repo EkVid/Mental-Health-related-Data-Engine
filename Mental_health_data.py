@@ -58,7 +58,7 @@ def plot_data_linear(title_name, x_name, y_name, arg_1, arg_2, colors):
 # add data into a list
 all_data = []
 bipolar_data = []
-add_data("data.csv", all_data)           # Anxiety Data
+add_data("anxiety.csv", all_data)           # Anxiety Data
 add_data("bipolar.csv", bipolar_data)    # Bipolar Data
 
 # Get 2019's data for all countries
