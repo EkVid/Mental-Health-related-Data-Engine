@@ -233,7 +233,7 @@ while 1:
                                'TEXT', 'TEXT', 'INTEGER', 'REAL'])
         in_file.close()
 
-        in_file = open("data.csv", "r")
+        in_file = open("anxiety.csv", "r")
         sql_tools.csv_to_table(db_handle, in_file, "Anxiety", [
                                'TEXT', 'TEXT', 'INTEGER', 'REAL'])
         in_file.close()
